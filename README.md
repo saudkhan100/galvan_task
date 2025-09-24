@@ -127,6 +127,8 @@ itsdangerous==2.1.2
 
 ## Screenshots
 
+### Home Page  
+![Home Page](screenshots/home.png)
 
 ### Login Page  
 ![Login Page](screenshots/login.png)
