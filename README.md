@@ -127,15 +127,12 @@ itsdangerous==2.1.2
 
 ## Screenshots
 
-### Home Page 
-![Home](screenshots/home.png)
-
 
 ### Login Page  
 ![Login Page](screenshots/login.png)
 
 ### Registration with OTP  
-![Registration](screenshots/registrform.png)
+![Registration](screenshots/registerform.png)
 
 ### Verify OTP  
 ![Verify Otp](screenshots/verifyotp.png)
@@ -157,8 +154,6 @@ itsdangerous==2.1.2
 
 
 
-
-*(Add your own screenshots in a `/screenshots` folder)*
 
 ---
 
