@@ -1,0 +1,21 @@
+# Node
+node_modules/
+package-lock.json
+.next/
+
+# Python
+__pycache__/
+*.pyc
+instance/
+venv/
+.env
+
+# Uploads
+uploads/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
